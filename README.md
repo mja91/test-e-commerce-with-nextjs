@@ -1,2 +1,4 @@
 # test-e-commerce-nextjs
-test-e-commerce-nextjs
+React + Nextjs를 활용한 테스트용 이커머스 어플리케이션
+1. 페이지 라우팅 방식을 활용하여 개발되었습니다.
+2. 상품 목록, 상세, 장바구니 담기/삭제 기능을 포함하고 있습니다.
